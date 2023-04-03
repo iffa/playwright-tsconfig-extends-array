@@ -1,0 +1,17 @@
+{
+  "name": "playwright-tsconfig-extends-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1",
+    "@tsconfig/next": "^1.0.5",
+    "@tsconfig/recommended": "^1.0.2",
+    "typescript": "^5.0.3"
+  }
+}
